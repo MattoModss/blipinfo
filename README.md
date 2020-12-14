@@ -4,5 +4,5 @@ Tämän avulla voit luoda karttaan blippejä, kun menet karttaan blipin kohdalle
 
 Lataa nämä tiedostot ja starttaa ne.
 
-start blip_info
+start blip_info                                                             
 start blipit
