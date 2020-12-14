@@ -6,3 +6,5 @@ Lataa nämä tiedostot ja starttaa ne.
 
 start blip_info                                                             
 start blipit
+
+Creditit: https://forum.cfx.re/u/glitchdetector/summary
